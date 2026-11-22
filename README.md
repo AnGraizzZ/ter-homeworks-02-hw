@@ -41,6 +41,7 @@
 - скриншот консоли, curl должен отобразить тот же внешний ip-адрес;
 ![alt text](img/image.png)
 - ответы на вопросы.
+
 platform_id = "standart-v4" -> platform_id = "standard-v1" - значние platform_id было указано с ошибками
 
 cores = 1                   -> cores = 2 - правильные значения core для стандартных платформ: 2, 4... 
